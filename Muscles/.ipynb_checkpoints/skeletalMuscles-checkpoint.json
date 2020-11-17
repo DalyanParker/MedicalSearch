@@ -1,0 +1,2072 @@
+[
+    {
+        "Muscle": "occipitofrontalis",
+        "Origin": "2 occipital bellies and 2 frontal bellies.",
+        "Insertion": "galea aponeurotica",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "raises the eyebrows",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "occipitalis",
+        "Origin": "superior nuchal line of the occipital bone; mastoid part of the temporal bone",
+        "Insertion": "galea aponeurotica",
+        "Artery": "occipital artery",
+        "Nerve": "posterior auricular nerve (facial nerve [CNVII])",
+        "Action": "moves the scalp back",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "frontalis",
+        "Origin": "skin of the eyebrow and Glabella",
+        "Insertion": "galea aponeurotica",
+        "Artery": "ophthalmic artery",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "wrinkles eyebrow",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "orbicularis oculi",
+        "Origin": "Orbital part: frontal bone.Palpebral part: medial palpebral ligament.Lacrimal part: Posterior crest of lacrimal bone",
+        "Insertion": "Orbital part: lateral palpebral raphePalpebral part: lateral palpebral rapheLacrimal part: Edges of eyelids",
+        "Artery": "ophthalmic zygomatico-orbital angular",
+        "Nerve": "zygomatic branch of facial nerve [CNVII]",
+        "Action": "closes eyelids",
+        "Antagonist": "levator palpebrae superioris"
+    },
+    {
+        "Muscle": "corrugator supercilii",
+        "Origin": "Nasal part of frontal bone",
+        "Insertion": "Intermediate third of skin of eyebrow",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "Moves skin of forehead medially and inferiorly (towards root of nose)",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "depressor supercilii",
+        "Origin": "Nasal part of the frontal bone medial rim of orbit",
+        "Insertion": "Medial third of skin of eyebrow",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "Moves skin of eyebrows inferiorly",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "levator palpebrae superioris",
+        "Origin": "sphenoid bone",
+        "Insertion": "tarsal plate upper eyelid",
+        "Artery": "ophthalmic artery",
+        "Nerve": "oculomotor nerve [CNIII]",
+        "Action": "retracts/elevates eyelid",
+        "Antagonist": "orbicularis oculi muscle"
+    },
+    {
+        "Muscle": "superior",
+        "Origin": "annulus of Zinn at the orbital apex",
+        "Insertion": "7.5mm superior to the corneal limbus",
+        "Artery": "",
+        "Nerve": "oculomotor nerve [CNIII]",
+        "Action": "elevates adducts and rotates medially the eye",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "superior",
+        "Origin": "annulus of Zinn at the orbital apex medial to optic canal",
+        "Insertion": "outer posterior quadrant of the eyeball",
+        "Artery": "lateral muscular branch of the ophthalmic artery",
+        "Nerve": "trochlear nerve [CNIV]",
+        "Action": "primary: intorsion. secondary:abduct (laterally rotate) and depress the eyeball",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "inferior",
+        "Origin": "orbital surface of the maxilla lateral to the lacrimal groove",
+        "Insertion": "laterally onto the eyeball deep to the lateral rectus by a short flat tendon",
+        "Artery": "",
+        "Nerve": "oculomotor nerve [CNIII]",
+        "Action": "extorsion elevation abduction",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "temporoparietalis",
+        "Origin": "auriculares muscles",
+        "Insertion": "galea aponeurotica",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "auricularis anterior",
+        "Origin": "Temporal fascia",
+        "Insertion": "front of the helix",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "auricularis superior",
+        "Origin": "Epicranial aponeurosis",
+        "Insertion": "Dorsocranial surface of the pinna",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "auricularis posterior",
+        "Origin": "Mastoid process of temporal bone and tendon of sternocleidomastoid",
+        "Insertion": "Dorsal part of the pinna",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "stapedius",
+        "Origin": "",
+        "Insertion": "neck of stapes",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "control the amplitude of sound waves to the inner ear",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "tensor tympani",
+        "Origin": "Eustachian tube",
+        "Insertion": "handle of the malleus",
+        "Artery": "superior tympanic artery",
+        "Nerve": "medial pterygoid nerve from mandibular nerve [CNV3]",
+        "Action": "tensing the tympanic membrane",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "Procerus muscle",
+        "Origin": "fascia over the lower part of the nasal bone",
+        "Insertion": "skin of the lower part of the forehead between the eyebrows",
+        "Artery": "",
+        "Nerve": "buccal branch of facial nerve [CNVII]",
+        "Action": "Draws down the medial angle of the eyebrow giving expressions of frowning",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "depressor septi nasi",
+        "Origin": "incisive fossa of the maxilla",
+        "Insertion": "nasal septum and back part of the alar part of nasalis muscle",
+        "Artery": "",
+        "Nerve": "buccal branch of facial nerve [CNVII]",
+        "Action": "depression of nasal septum",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "levator labii superioris alaeque nasi",
+        "Origin": "frontal process of the maxilla",
+        "Insertion": "nostril and upper lip",
+        "Artery": "superior labial artery",
+        "Nerve": "buccal branch of facial nerve [CNVII]",
+        "Action": "dilates the nostril; elevates the upper lip and wing of the nose",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "transverse part(compressor naris)",
+        "Origin": "Alveolar yoke of the canine tooth",
+        "Insertion": "lateral nasal cartilage",
+        "Artery": "",
+        "Nerve": "buccal branch of facial nerve [CNVII]",
+        "Action": "compression of nostrils",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "alar part(dilator naris)",
+        "Origin": "Alveolar yoke of lateral incisor tooth greater and lesser alar cartilages",
+        "Insertion": "skin near the margin of the nostril",
+        "Artery": "",
+        "Nerve": "buccal branch of facial nerve [CNVII]",
+        "Action": "dilation of nostrils",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "levator anguli oris(caninus)",
+        "Origin": "maxilla",
+        "Insertion": "modiolus of mouth",
+        "Artery": "facial artery",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "smile (elevates angle of mouth)",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "depressor anguli oris(triangularis)",
+        "Origin": "tubercle of mandible",
+        "Insertion": "modiolus of mouth",
+        "Artery": "facial artery",
+        "Nerve": "mandibular branch of the facial nerve [CNVII]",
+        "Action": "depresses angle of mouth",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "levator labii superioris",
+        "Origin": "medial part of infra-orbital margin of maxilla",
+        "Insertion": "skin and muscle of the upper lip (labii superioris)",
+        "Artery": "superior labial artery",
+        "Nerve": "buccal branch of the facial nerce [CNVII]",
+        "Action": "Elevates the upper lip",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "depressor labii inferioris",
+        "Origin": "oblique line of the mandible between the symphysis and the mental foramen",
+        "Insertion": "integument of the lower lip orbicularis oris fibers its fellow of the opposite side",
+        "Artery": "inferior labial artery",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "Depresses the lower lip",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "mentalis",
+        "Origin": "Alveolar yoke of the lower lateral incisor tooth found on the anterior mandible",
+        "Insertion": "skin of the chin",
+        "Artery": "Inferior labial branch of facial artery",
+        "Nerve": "mandibular branch of the facial nerve [CNVII]",
+        "Action": "elevates and wrinkles skin of chin protrudes lower lip",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "buccinator",
+        "Origin": "alveolar processes of the maxilla and mandible pterygomandibular raphe",
+        "Insertion": "in the fibres of the orbicularis oris",
+        "Artery": "buccal artery",
+        "Nerve": "buccal branch of the facial nerce [CNVII]",
+        "Action": "compress the cheeks against the teeth (blowing) mastication.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "major",
+        "Origin": "zygomatic bone in region of zygomaticomaxillary suture",
+        "Insertion": "modiolus of mouth",
+        "Artery": "facial artery",
+        "Nerve": "buccal branch of the facial nerce [CNVII]",
+        "Action": "draws angle of mouth upward and laterally",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "masseter",
+        "Origin": "anterior two-thirds of inferior margin of the zygomatic arch and maxilla",
+        "Insertion": "Angle of mandible masseteric tuberosity",
+        "Artery": "masseteric artery",
+        "Nerve": "masseteric nerve from mandibular nerve [CNV3]",
+        "Action": "elevation (as in closing of the mouth) and retraction of mandible",
+        "Antagonist": "platysma muscle"
+    },
+    {
+        "Muscle": "lateral",
+        "Origin": "greater wing of sphenoid and lateral pterygoid process",
+        "Insertion": "condyloid process of mandible",
+        "Artery": "pterygoid branches of maxillary artery",
+        "Nerve": "external pterygoid nerve from the mandibular nerve [CNV3]",
+        "Action": "depresses mandible",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "genioglossus",
+        "Origin": "Superior part of mental spine of mandible (symphysis menti)",
+        "Insertion": "Dorsum of tongue and body of hyoid",
+        "Artery": "Lingual artery",
+        "Nerve": "hypoglossal nerve",
+        "Action": "Complex– Inferior fibers protrude the tongue middle fibers depress the tongue and its superior fibers draw the tip back and down",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "hyoglossus",
+        "Origin": "hyoid",
+        "Insertion": "side of the tongue",
+        "Artery": "",
+        "Nerve": "hypoglossal nerve",
+        "Action": "depresses tongue",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "chondroglossus",
+        "Origin": "lesser cornu and body of the hyoid bone",
+        "Insertion": "intrinsic muscular fibers of the tongue",
+        "Artery": "",
+        "Nerve": "hypoglossal nerve",
+        "Action": "depresses tongue (some consider this muscle to be part of hyoglossus)",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "styloglossus",
+        "Origin": "Styloid process of temporal bone",
+        "Insertion": "tongue",
+        "Artery": "",
+        "Nerve": "Hypoglossal nerve",
+        "Action": "elevates and retracts tongue",
+        "Antagonist": "inferior and middle fibers of genioglossus"
+    },
+    {
+        "Muscle": "palatoglossus",
+        "Origin": "palatine aponeurosis",
+        "Insertion": "tongue",
+        "Artery": "",
+        "Nerve": "vagus nerve and cranial accessory nerve",
+        "Action": "raising the back part of the tongue",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "superior longitudinal",
+        "Origin": "close to the epiglottis from the median fibrous septum",
+        "Insertion": "edges of the tongue",
+        "Artery": "",
+        "Nerve": "hypoglossal nerve",
+        "Action": "shortens turns tip upward turns lateral margins upward",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "transversus",
+        "Origin": "median fibrous septum",
+        "Insertion": "sides of the tongue",
+        "Artery": "",
+        "Nerve": "hypoglossal nerve",
+        "Action": "narrows and not elongated",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "inferior longitudinal",
+        "Origin": "root of the tongue",
+        "Insertion": "apex of the tongue",
+        "Artery": "",
+        "Nerve": "Hypoglossal nerve",
+        "Action": "shortens retracts pulls tip downward",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "verticalis muscle",
+        "Origin": "dorsum of tongue",
+        "Insertion": "inferior surface borders of tongue",
+        "Artery": "",
+        "Nerve": "hypoglossal nerve",
+        "Action": "flattens",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "levator veli palatini",
+        "Origin": "temporal bone Eustachian tube",
+        "Insertion": "palatine aponeurosis",
+        "Artery": "facial artery",
+        "Nerve": "vagus nerve",
+        "Action": "Aids in swallowing by elevating the soft palate",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "palatoglossus",
+        "Origin": "palatine aponeurosis",
+        "Insertion": "tongue",
+        "Artery": "",
+        "Nerve": "vagus nerve and cranial accessory nerve",
+        "Action": "Aids in respiration by raising the back part of the tongue",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "palatopharyngeus",
+        "Origin": "palatine aponeurosis and hard palate",
+        "Insertion": "upper border of thyroid cartilage (blends with constrictor fibers)",
+        "Artery": "facial artery",
+        "Nerve": "vagus nerve and cranial accessory nerve",
+        "Action": "Aids in respiration by pulling the pharynx and larynx",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "stylopharyngeus",
+        "Origin": "temporal styloid process",
+        "Insertion": "thyroid cartilage (pharynx)",
+        "Artery": "pharyngeal branches of ascending pharyngeal artery",
+        "Nerve": "glossopharyngeal nerve",
+        "Action": "elevate the larynx elevate the pharynx swallowing",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "salpingopharyngeus",
+        "Origin": "cartilage of the Eustachian tube",
+        "Insertion": "posterior fasciculus of the pharyngopalatinus muscle",
+        "Artery": "",
+        "Nerve": "vagus nerve and cranial accessory nerve",
+        "Action": "raise the nasopharynx",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "inferior",
+        "Origin": "cricoid and thyroid cartilage",
+        "Insertion": "pharyngeal raphe",
+        "Artery": "pharyngeal branches of ascending pharyngeal artery",
+        "Nerve": "external laryngeal branch of the vagus",
+        "Action": "Swallowing",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "superior",
+        "Origin": "medial pterygoid plate pterygomandibular raphé alveolar process",
+        "Insertion": "pharyngeal raphe pharyngeal tubercle",
+        "Artery": "",
+        "Nerve": "vagus nerve",
+        "Action": "Swallowing",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "cricothyroid",
+        "Origin": "anterior and lateral cricoid cartilage",
+        "Insertion": "inferior cornu and lamina of the thyroid cartilage",
+        "Artery": "",
+        "Nerve": "external laryngeal branch of the vagus",
+        "Action": "tension and elongation of the vocal folds (has minor adductory effect)",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "arytenoid",
+        "Origin": "arytenoid cartilage on one side",
+        "Insertion": "arytenoid cartilage on opposite side",
+        "Artery": "",
+        "Nerve": "recurrent laryngeal branch of the vagus",
+        "Action": "approximate the arytenoid cartilages (close rima glottidis)",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "thyroarytenoid",
+        "Origin": "inner surface of the thyroid cartilage (anterior aspect)",
+        "Insertion": "anterior surface of arytenoid cartilage",
+        "Artery": "",
+        "Nerve": "recurrent laryngeal branch of the vagus",
+        "Action": "thickens the vocal folds and decreases length; also helps to adduct the vocal folds during speech",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "posterior",
+        "Origin": "posterior part of the cricoid",
+        "Insertion": "muscular process of the arytenoid cartilage",
+        "Artery": "",
+        "Nerve": "recurrent laryngeal branch of the vagus",
+        "Action": "abducts and laterally rotates the cartilage pulling the vocal ligaments away from the midline and forward and so opening the rima glottidis",
+        "Antagonist": "lateral cricoarytenoid muscle"
+    },
+    {
+        "Muscle": "lateral",
+        "Origin": "lateral part of the arch of the cricoid",
+        "Insertion": "muscular process of the arytenoid cartilage",
+        "Artery": "",
+        "Nerve": "recurrent laryngeal branch of the vagus",
+        "Action": "adduct and medially rotate the cartilage pulling the vocal ligaments towards the midline and backwards and so closing off the rima glottidis",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "platysma",
+        "Origin": "base of mandible",
+        "Insertion": "inferior clavicle and fascia of chest",
+        "Artery": "branches of the submental artery and suprascapular artery",
+        "Nerve": "cervical branch of the facial nerve [CNVII]",
+        "Action": "Tenses the skin of the neck",
+        "Antagonist": "Masseter Temporalis"
+    },
+    {
+        "Muscle": "sternocleidomastoid",
+        "Origin": "Sternal head: manubrium sterniClavicular head: medial portion of the clavicle",
+        "Insertion": "mastoid process of the temporal bone superior nuchal line",
+        "Artery": "occipital artery and the superior thyroid artery",
+        "Nerve": "motor: accessory nervesensory: cervical plexus",
+        "Action": "Acting alone tilts head to its own side and rotates it so the face is turned towards the opposite side. Acting together flexes the neck raises the sternum and assists in forced inspiration.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "digastric",
+        "Origin": "Anterior belly: digastric fossa (mandible)Posterior belly: mastoid process of temporal bone",
+        "Insertion": "Intermediate tendon (lesser horn of hyoid bone)",
+        "Artery": "",
+        "Nerve": "Anterior belly: mandibular nerve [CNV3] via the mylohyoid nerve Posterior belly: facial nerve [CNVII]",
+        "Action": "Opens the jaw when the masseter and the temporalis are relaxed.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "stylohyoid",
+        "Origin": "styloid process (temporal)",
+        "Insertion": "greater cornu of hyoid bone",
+        "Artery": "",
+        "Nerve": "facial nerve [CNVII]",
+        "Action": "Elevate the hyoid during swallowing",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "mylohyoid",
+        "Origin": "Mylohyoid line (mandible)",
+        "Insertion": "Median raphé",
+        "Artery": "mylohyoid branch of inferior alveolar artery",
+        "Nerve": "mylohyoid nerve from inferior alveolar branch of mandibular nerve [V3]",
+        "Action": "Raises oral cavity floor elevates hyoid depresses mandible",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "geniohyoid",
+        "Origin": "Symphysis menti",
+        "Insertion": "Anterior surface of body of hyoid bone",
+        "Artery": "",
+        "Nerve": "C1 via hypoglossal nerve",
+        "Action": "Elevates the hyoid and the tongue upward during deglutition",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "sternohyoid",
+        "Origin": "manubrium of sternum",
+        "Insertion": "hyoid bone",
+        "Artery": "",
+        "Nerve": "Ansa cervicalis",
+        "Action": "depress hyoid bone",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "sternothyroid",
+        "Origin": "manubrium",
+        "Insertion": "thyroid cartilage",
+        "Artery": "",
+        "Nerve": "Ansa cervicalis",
+        "Action": "Depresses larynx may slightly depress hyoid bone.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "thyrohyoid",
+        "Origin": "thyroid cartilage",
+        "Insertion": "hyoid bone",
+        "Artery": "",
+        "Nerve": "C1",
+        "Action": "depress hyoid bone",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "omohyoid",
+        "Origin": "Upper border of the scapula",
+        "Insertion": "Hyoid bone",
+        "Artery": "",
+        "Nerve": "Ansa cervicalis",
+        "Action": "Depresses the larynx and hyoid bone. Carries hyoid bone backward and to the side",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "longus colli",
+        "Origin": "Transverse processes of C-3 – C-6",
+        "Insertion": "Anterior arch of atlas",
+        "Artery": "",
+        "Nerve": "C2 C3 C4 C5 C6",
+        "Action": "Flexes the neck and head",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "longus capitis",
+        "Origin": "anterior tubercles of the transverse processes of the third fourth fifth and sixth cervical vertebrae",
+        "Insertion": "basilar part of the occipital bone",
+        "Artery": "",
+        "Nerve": "C1 C2 C3/C4",
+        "Action": "flexion of neck at atlanto-occipital joint",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "rectus capitis anterior",
+        "Origin": "atlas",
+        "Insertion": "occipital bone",
+        "Artery": "",
+        "Nerve": "C1",
+        "Action": "flexion of neck at atlanto-occipital joint",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "rectus capitis lateralis",
+        "Origin": "upper surface of the transverse process of the atlas",
+        "Insertion": "under surface of the jugular process of the occipital bone",
+        "Artery": "",
+        "Nerve": "C1",
+        "Action": "Sidebend at atlanto-occipital joint",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "scalene muscles",
+        "Origin": "cervical vertebrae",
+        "Insertion": "first and second ribs",
+        "Artery": "ascending cervical artery (branch of inferior thyroid artery)",
+        "Nerve": "cervical nerves (C3 C4 C5 C6 C7",
+        "Action": "elevation of ribs I&II",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "anterior",
+        "Origin": "C3-C6",
+        "Insertion": "first rib",
+        "Artery": "ascending cervical artery (branch of inferior thyroid artery)",
+        "Nerve": "ventral ramus of C5 C6",
+        "Action": "When the neck is fixed elevates the first rib to aid in breathing or when the rib is fixed bends the neck forward and sideways and rotates it to the opposite side",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "medius",
+        "Origin": "C2-C6",
+        "Insertion": "first rib",
+        "Artery": "ascending cervical artery (branch of inferior thyroid artery)",
+        "Nerve": "ventral rami of the third to eighth cervical spinal nerves",
+        "Action": "Elevate 1st rib rotate the neck to the opposite side",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "posterior",
+        "Origin": "transverse processes of C4 – C6",
+        "Insertion": "2nd rib",
+        "Artery": "ascending cervical artery superficial cervical artery",
+        "Nerve": "C6 C7 C8",
+        "Action": "Elevate 2nd rib tilt the neck to the same side",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "levator scapulae",
+        "Origin": "Posterior tubercles of transverse processes of C1 – C4",
+        "Insertion": "Superior part of medial border of scapula",
+        "Artery": "dorsal scapular artery",
+        "Nerve": "cervical nerve (C3 C4) and dorsal scapular nerve (C5)",
+        "Action": "Elevates scapula and tilts its glenoid cavity inferiorly by rotating scapula",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "rectus capitis lateralis",
+        "Origin": "upper surface of the transverse process of the atlas (C1)",
+        "Insertion": "under surface of the jugular process of the occipital bone",
+        "Artery": "",
+        "Nerve": "C1",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "obliquus capitis superior",
+        "Origin": "lateral mass of atlas",
+        "Insertion": "lateral half of the inferior nuchal line",
+        "Artery": "",
+        "Nerve": "suboccipital nerve",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "obliquus capitis inferior",
+        "Origin": "spinous process of the axis",
+        "Insertion": "lateral mass of atlas",
+        "Artery": "",
+        "Nerve": "suboccipital nerve",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "rectus capitis posterior minor",
+        "Origin": "the tubercle on the posterior arch of the atlas (C1)",
+        "Insertion": "the medial part of the inferior nuchal line of the occipital bone and the surface between it and the foramen magnum",
+        "Artery": "",
+        "Nerve": "a branch of the dorsal primary division of the suboccipital nerve",
+        "Action": "extends the head at the neck but is now considered to be more of a sensory organ than a muscle",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "rectus capitis posterior major",
+        "Origin": "spinous process of the axis (C2)",
+        "Insertion": "inferior nucheal line of the occipital bone",
+        "Artery": "",
+        "Nerve": "Dorsal ramus of C1 (suboccipital nerve)",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "semispinalis capitis",
+        "Origin": "articular processes of C4-C6; transverse processes of C7 and T1-T7",
+        "Insertion": "occipital bone between the superior and inferior nuchal lines",
+        "Artery": "",
+        "Nerve": "greater occipital nerve",
+        "Action": "Extension of the head",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "longissimus capitis",
+        "Origin": "articular processes of C4-C7; transverse processes of T1-T5",
+        "Insertion": "posterior margin of the mastoid process",
+        "Artery": "lateral sacral artery",
+        "Nerve": "posterior branch of spinal nerve",
+        "Action": "Laterally: Flex the head and neck to the same side. Bilaterally: Extend the vertebral column.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "splenius capitis",
+        "Origin": "ligamentum nuchae spinous processes of C7-T6",
+        "Insertion": "Mastoid process",
+        "Artery": "",
+        "Nerve": "C3 C4",
+        "Action": "Extend rotate and laterally flex the head",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "obliquus capitis superior",
+        "Origin": "lateral mass of atlas",
+        "Insertion": "lateral half of the inferior nuchal line",
+        "Artery": "",
+        "Nerve": "suboccipital nerve",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "obliquus capitis inferior",
+        "Origin": "spinous process of the axis",
+        "Insertion": "lateral mass of atlas",
+        "Artery": "",
+        "Nerve": "suboccipital nerve",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "erector spinae",
+        "Origin": "on the spines of the last four thoracic vertebrae",
+        "Insertion": "both the spines of the most cranial thoracic vertebrae and the cervical vertebrae",
+        "Artery": "lateral sacral artery",
+        "Nerve": "posterior branch of spinal nerve",
+        "Action": "extends the vertebral column",
+        "Antagonist": "rectus abdominis muscle"
+    },
+    {
+        "Muscle": "iliocostalis",
+        "Origin": "",
+        "Insertion": "",
+        "Artery": "lateral sacral artery",
+        "Nerve": "",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "longissimus",
+        "Origin": "transverse process",
+        "Insertion": "transverse process",
+        "Artery": "lateral sacral artery",
+        "Nerve": "posterior branch of spinal nerve",
+        "Action": "",
+        "Antagonist": "rectus abdominis muscle"
+    },
+    {
+        "Muscle": "spinalis",
+        "Origin": "spinous process",
+        "Insertion": "spinous process",
+        "Artery": "lateral sacral artery",
+        "Nerve": "posterior branch of spinal nerve",
+        "Action": "",
+        "Antagonist": "rectus abdominis muscle"
+    },
+    {
+        "Muscle": "latissimus dorsi",
+        "Origin": "spinous processes of thoracic T6-T12 thoracolumbar fascia iliac crest and inferior 3 or 4 ribs",
+        "Insertion": "floor of intertubercular groove of the humerus",
+        "Artery": "subscapular artery dorsal scapular artery",
+        "Nerve": "thoracodorsal nerve",
+        "Action": "pulls the forelimb dorsally and caudally",
+        "Antagonist": "deltoid trapezius"
+    },
+    {
+        "Muscle": "transversospinales",
+        "Origin": "transverse process",
+        "Insertion": "spinous process",
+        "Artery": "",
+        "Nerve": "posterior branches",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "semispinalis thoracis(dorsi)",
+        "Origin": "transverse processes of the sixth to the tenth thoracic vertebrae",
+        "Insertion": "spinous processes of the upper four thoracic and lower two cervical vertebrae",
+        "Artery": "",
+        "Nerve": "",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "semispinalis cervicis(colli)",
+        "Origin": "transverse processes of the upper five or six thoracic vertebræ",
+        "Insertion": "cervical spinous processes from the axis to the fifth",
+        "Artery": "",
+        "Nerve": "",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "semispinalis capitis(complexus)",
+        "Origin": "transversal process of lower cervical and higher thoracal columna",
+        "Insertion": "area between superior and inferior nuchal line",
+        "Artery": "",
+        "Nerve": "greater occipital nerve",
+        "Action": "Extends the head",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "multifidus",
+        "Origin": "sacrum erector spinae aponeurosis PSIS and iliac crest",
+        "Insertion": "spinous process",
+        "Artery": "",
+        "Nerve": "posterior branch of spinal nerve",
+        "Action": "Stabilizes vertebrae in local movements of vertebral column",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "rotatores",
+        "Origin": "transverse process",
+        "Insertion": "spinous process",
+        "Artery": "",
+        "Nerve": "posterior branch",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "interspinales",
+        "Origin": "spinous process",
+        "Insertion": "spinous process",
+        "Artery": "",
+        "Nerve": "posterior rami of spinal nerves",
+        "Action": "Extension flexion and rotation of vertebral column.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "intertransversarii",
+        "Origin": "transverse process",
+        "Insertion": "transverse process above",
+        "Artery": "",
+        "Nerve": "anterior rami of spinal nerves",
+        "Action": "Lateral flexion of trunk",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "capitis",
+        "Origin": "ligamentum nuchae spinous process of C7-T6",
+        "Insertion": "Mastoid process of temporal and occipital bone",
+        "Artery": "",
+        "Nerve": "C3 C4",
+        "Action": "Extend rotate and laterally flex the head",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "cervicis",
+        "Origin": "spinous processes of T3-T6",
+        "Insertion": "transverse processes of C1 C2 C3",
+        "Artery": "",
+        "Nerve": "C5 C6",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "intercostals",
+        "Origin": "ribs 1–11",
+        "Insertion": "ribs 2–12",
+        "Artery": "intercostal arteries",
+        "Nerve": "intercostal nerves",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "external",
+        "Origin": "",
+        "Insertion": "",
+        "Artery": "intercostal arteries",
+        "Nerve": "intercostal nerves",
+        "Action": "Inhalation",
+        "Antagonist": "internal"
+    },
+    {
+        "Muscle": "internal",
+        "Origin": "rib – inferior border",
+        "Insertion": "rib – superior border",
+        "Artery": "intercostal arteries",
+        "Nerve": "intercostal nerves",
+        "Action": "hold ribs steady",
+        "Antagonist": "external"
+    },
+    {
+        "Muscle": "innermost",
+        "Origin": "",
+        "Insertion": "",
+        "Artery": "intercostal arteries",
+        "Nerve": "intercostal nerves",
+        "Action": "Elevate ribs",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "subcostales",
+        "Origin": "inner surface of one rib",
+        "Insertion": "inner surface of the second or third rib above near its angle",
+        "Artery": "",
+        "Nerve": "intercostal nerves",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "transversus thoracis",
+        "Origin": "costal cartilages of last 3–4 ribs body of sternum xiphoid process",
+        "Insertion": "ribs/costal cartilages 2–6",
+        "Artery": "intercostal arteries",
+        "Nerve": "intercostal nerves",
+        "Action": "depresses ribs",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "levatores costarum",
+        "Origin": "transverse processes of C7 to T12 vertebrae",
+        "Insertion": "superior surfaces of the ribs immediately inferior to the preceding vertebrae",
+        "Artery": "",
+        "Nerve": "dorsal rami – C8 T1 T2 T3 T4 T5 T6 T7 T8 T9 T10 T11",
+        "Action": "Assists in elevation of the thoracic rib cage",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "inferior",
+        "Origin": "vertebrae T11 – L3",
+        "Insertion": "the inferior borders of the 9th through 12th ribs",
+        "Artery": "intercostal arteries",
+        "Nerve": "intercostal nerves",
+        "Action": "depress the lower ribs aiding in expiration",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "superior",
+        "Origin": "nuchal ligament (or ligamentum nuchae) and the spinous processes of the vertebrae C7 through T3",
+        "Insertion": "the upper borders of the 2nd through 5th ribs",
+        "Artery": "intercostal arteries",
+        "Nerve": "2nd through 5th intercostal nerves",
+        "Action": "elevate the ribs which aids in inspiration",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "diaphragm",
+        "Origin": "",
+        "Insertion": "",
+        "Artery": "pericardiacophrenic artery musculophrenic artery inferior phrenic arteries",
+        "Nerve": "phrenic and lower intercostal nerves",
+        "Action": "respiration",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "transversus abdominis",
+        "Origin": "ribs and the iliac crest",
+        "Insertion": "inserts into the pubic tubercle via the conjoint tendon also known as the falx inguinalis",
+        "Artery": "",
+        "Nerve": "intercostal nerves T7 T8 T9 T10 T11 subcostal nerve (T12) iliohypogastric nerve ilioinguinal nerve genitofemoral nerve",
+        "Action": "compress the ribs and viscera providing thoracic and pelvic stability",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "rectus abdominis",
+        "Origin": "pubis",
+        "Insertion": "costal cartilages of ribs 5–7 xiphoid process of sternum",
+        "Artery": "inferior epigastric artery",
+        "Nerve": "segmentally by thoraco-abdominal nerves (T7 T8 T9 T10 T11 T12)",
+        "Action": "flexion of trunk/lumbar vertebrae",
+        "Antagonist": "erector spinae"
+    },
+    {
+        "Muscle": "pyramidalis",
+        "Origin": "pubic symphysis and pubic crest",
+        "Insertion": "linea alba",
+        "Artery": "",
+        "Nerve": "subcostal nerve (T12)",
+        "Action": "tensing the linea alba",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "cremaster",
+        "Origin": "inguinal ligament",
+        "Insertion": "",
+        "Artery": "cremasteric artery",
+        "Nerve": "genital branch of genitofemoral nerve",
+        "Action": "raise and lower the scrotum",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "quadratus lumborum",
+        "Origin": "iliac crest and iliolumbar ligament",
+        "Insertion": "last rib and transverse processes of lumbar vertebrae",
+        "Artery": "lumbar arteries iliolumbar artery",
+        "Nerve": "anterior branches of T12 L1 L2 L3 L4",
+        "Action": "Alone lateral flexion of vertebral column; Together depression of thoracic rib cage",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "external",
+        "Origin": "Lower 8 costae",
+        "Insertion": "Crista iliaca ligamentum inguinale",
+        "Artery": "",
+        "Nerve": "intercostal nerves T5 T6 T7 T8 T9 T10 T11 subcostal nerve (T12)",
+        "Action": "Rotates torso",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "internal",
+        "Origin": "inguinal ligament iliac crest and the lumbodorsal fascia",
+        "Insertion": "linea alba xiphoid process and the inferior ribs.",
+        "Artery": "",
+        "Nerve": "intercostal nerves T8 T9 T10 T11 subcostal nerve (T12) iliohypogastric nerve ilioinguinal nerve",
+        "Action": "Compresses abdomen and rotates vertebral column",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "coccygeus",
+        "Origin": "sacrospinous ligament",
+        "Insertion": "",
+        "Artery": "",
+        "Nerve": "sacral nerves: S4 S5 or S3-S4",
+        "Action": "closing in the back part of the outlet of the pelvis",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "iliococcygeus",
+        "Origin": "ischial spine and from the posterior part of the tendinous arch of the pelvic fascia",
+        "Insertion": "coccyx and anococcygeal raphe",
+        "Artery": "",
+        "Nerve": "levator ani nerve (S4)inferior rectal nerve from pudendal nerve (S3 S4)coccygeal plexus",
+        "Action": "supports the viscera in pelvic cavity",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "puborectalis",
+        "Origin": "lower part of the pubic symphysis",
+        "Insertion": "",
+        "Artery": "",
+        "Nerve": "S3 S4. levator ani nerve",
+        "Action": "inhibit defecation",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "externus",
+        "Origin": "",
+        "Insertion": "",
+        "Artery": "",
+        "Nerve": "S4 and twigs from inferior anal nerves of pudendal nerve",
+        "Action": "keep the anal canal and anus closed aids in the expulsion of the feces",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "internus",
+        "Origin": "",
+        "Insertion": "",
+        "Artery": "",
+        "Nerve": "pudendal nerve",
+        "Action": "keep the anal canal and anus closed aids in the expulsion of the feces",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "transversus perinei superficialis",
+        "Origin": "anterior part of ischial tuberosity",
+        "Insertion": "central point of perineum",
+        "Artery": "",
+        "Nerve": "pudendal nerve",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "bulbospongiosus",
+        "Origin": "median raphé",
+        "Insertion": "",
+        "Artery": "perineal artery",
+        "Nerve": "pudendal nerve",
+        "Action": "in males empties the urethra; in females clenches the vagina",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "ischiocavernosus",
+        "Origin": "",
+        "Insertion": "",
+        "Artery": "perineal artery",
+        "Nerve": "pudendal nerve",
+        "Action": "assists the bulbospongiosus muscle",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "transversus perinei profundus",
+        "Origin": "inferior rami of the ischium",
+        "Insertion": "its fellow of the opposite side",
+        "Artery": "pudendal nerve",
+        "Nerve": "",
+        "Action": "",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "sphincter urethrae membranaceae",
+        "Origin": "junction of the inferior rami of the pubis and ischium to the extent of 1.25–2cm. and from the neighboring fasciæ",
+        "Insertion": "its fellow of the opposite side",
+        "Artery": "",
+        "Nerve": "perineal branch of the pudendal nerve (S2 S3 S4)",
+        "Action": "Constricts urethra maintain urinary continence",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "trapezius",
+        "Origin": "down the midline from the external occipital protuberance the nuchal ligament the medial part of the superior nuchal line and the spinous processes of the vertebrae C7-T12",
+        "Insertion": "at the shoulders into the lateral third of the clavicle the acromion process and into the spine of the scapula",
+        "Artery": "transverse cervical artery",
+        "Nerve": "major nerve supply is the cranial nerve XI. cervical nerves C3 and C4 receive information about pain in this muscle",
+        "Action": "retraction and elevation of scapula.",
+        "Antagonist": "Serratus anterior muscle"
+    },
+    {
+        "Muscle": "latissimus dorsi",
+        "Origin": "spinous processes of thoracic T6-T12 thoracolumbar fascia iliac crest and inferior 3 or 4 ribs",
+        "Insertion": "floor of intertubercular groove of the humerus",
+        "Artery": "subscapular artery dorsal scapular artery",
+        "Nerve": "thoracodorsal nerve",
+        "Action": "pulls the forelimb dorsally and caudally",
+        "Antagonist": "deltoid trapezius"
+    },
+    {
+        "Muscle": "rhomboids",
+        "Origin": "nuchal ligaments spinous processes of C7-T5 vertebrae",
+        "Insertion": "medial border of the scapula",
+        "Artery": "dorsal scapular artery",
+        "Nerve": "dorsal scapular nerve (C4 and C5)",
+        "Action": "Retracts the scapula and rotates it to depress the glenoid cavity. fixes the scapula to the thoracic wall.",
+        "Antagonist": "Serratus anterior muscle"
+    },
+    {
+        "Muscle": "rhomboid major",
+        "Origin": "spinous processes of the T2 to T5 vertebrae",
+        "Insertion": "medial border of the scapula inferior to the insertion of rhomboid minor muscle",
+        "Artery": "dorsal scapular artery",
+        "Nerve": "dorsal scapular nerve (C4 and C5)",
+        "Action": "Retracts the scapula and rotates it to depress the glenoid cavity. It also fixes the scapula to the thoracic wall.",
+        "Antagonist": "Serratus anterior muscle"
+    },
+    {
+        "Muscle": "rhomboid minor",
+        "Origin": "nuchal ligaments and spinous processes of C7- to T1 vertebrae",
+        "Insertion": "medial border of the scapula superior to the insertion of rhomboid major muscle",
+        "Artery": "dorsal scapular artery",
+        "Nerve": "dorsal scapular nerve (C4 and C5)",
+        "Action": "Retracts the scapula and rotates it to depress the glenoid cavity. It also fixes the scapula to the thoracic wall.",
+        "Antagonist": "Serratus anterior muscle"
+    },
+    {
+        "Muscle": "levator scapulae",
+        "Origin": "posterior tubercles of transverse processes of C1 – C4 vertebrae",
+        "Insertion": "superior part of medial border of scapula",
+        "Artery": "dorsal scapular artery",
+        "Nerve": "cervical nerve (C3 C4) and dorsal scapular nerve (C5)",
+        "Action": "Elevates scapula and tilts its glenoid cavity inferiorly by rotating scapula",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "pectoralis major",
+        "Origin": "anterior surface of the medial half of the clavicle. Sternocostal head: anterior surface of the sternum the superior six costal cartilages",
+        "Insertion": "intertubercular groove of the humerus",
+        "Artery": "pectoral branch of the thoracoacromial trunk",
+        "Nerve": "lateral pectoral nerve and medial pectoral nerve Clavicular head: C5 and C6Sternocostal head: C7 C8 and T1",
+        "Action": "Clavicular head: flexes the humerusSternocostal head: extends the humerusAs a whole adducts and medially rotates the humerus. It also draws the scapula anteriorly and inferiorly.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "pectoralis minor",
+        "Origin": "3rd to 5th ribs near their costal cartilages",
+        "Insertion": "medial border and superior surface of the coracoid process of the scapula",
+        "Artery": "Pectoral branch of the thoracoacromial trunk",
+        "Nerve": "Medial pectoral nerves (C8 T1)",
+        "Action": "stabilizes the scapula by drawing it inferiorly and anteriorly against the thoracic wall",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "subclavius",
+        "Origin": "first rib",
+        "Insertion": "subclavian groove of clavicle",
+        "Artery": "thoracoacromial artery clavicular branch",
+        "Nerve": "nerve to subclavius",
+        "Action": "Depresses the clavicle",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "serratus anterior",
+        "Origin": "fleshy slips from the outer surface of upper 8 or 9 ribs",
+        "Insertion": "costal aspect of medial margin of the scapula",
+        "Artery": "lateral thoracic artery (upper part) thoracodorsal artery (lower part)",
+        "Nerve": "long thoracic nerve (from roots of brachial plexus C5 C6 C7)",
+        "Action": "protract and stabilize scapula assists in upward rotation",
+        "Antagonist": "Rhomboid major Rhomboid minor Trapezius"
+    },
+    {
+        "Muscle": "deltoid",
+        "Origin": "clavicle acromion spine of the scapula",
+        "Insertion": "deltoid tuberosity of humerus",
+        "Artery": "primarily posterior circumflex humeral artery",
+        "Nerve": "Axillary nerve",
+        "Action": "shoulder abduction flexion and extension",
+        "Antagonist": "Latissimus dorsi"
+    },
+    {
+        "Muscle": "teres major",
+        "Origin": "posterior aspect of the inferior angle of the scapula",
+        "Insertion": "medial lip of the intertubercular sulcus of the humerus",
+        "Artery": "Subscapular and circumflex scapular arteries",
+        "Nerve": "Lower subscapular nerve (segmental levels C5 and C6)",
+        "Action": "Internal rotation of the humerus",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "supraspinatus",
+        "Origin": "supraspinous fossa of scapula",
+        "Insertion": "superior facet of greater tubercle of humerus",
+        "Artery": "suprascapular artery",
+        "Nerve": "suprascapular nerve",
+        "Action": "abduction of arm and stabilizes humerus",
+        "Antagonist": "infraspinatus teres minor pectoralis major and latissimus dorsi"
+    },
+    {
+        "Muscle": "infraspinatus",
+        "Origin": "infraspinous fossa of the scapula",
+        "Insertion": "middle facet of greater tubercle of the humerus",
+        "Artery": "suprascapular and circumflex scapular arteries",
+        "Nerve": "suprascapular nerve",
+        "Action": "Lateral rotation of arm & Adduction of arm and stabilizes humerus",
+        "Antagonist": "subscapularis pectoralis major and latissimus dorsi"
+    },
+    {
+        "Muscle": "teres minor",
+        "Origin": "lateral border of the scapula",
+        "Insertion": "inferior facet of greater tubercle of the humerus",
+        "Artery": "posterior circumflex humeral artery and the circumflex scapular artery",
+        "Nerve": "axillary nerve",
+        "Action": "laterally rotates and adducts the arm",
+        "Antagonist": "subscapularis pectoralis major and latissimus dorsi"
+    },
+    {
+        "Muscle": "subscapularis",
+        "Origin": "subscapular fossa",
+        "Insertion": "lesser tubercle of humerus",
+        "Artery": "subscapular artery",
+        "Nerve": "upper subscapular nerve lower subscapular nerve (C5 C6)",
+        "Action": "rotates medially humerus; stabilizes shoulder",
+        "Antagonist": "infraspinatus and teres minor"
+    },
+    {
+        "Muscle": "coracobrachialis",
+        "Origin": "coracoid process of scapula",
+        "Insertion": "medial humerus",
+        "Artery": "brachial artery",
+        "Nerve": "musculocutaneous nerve",
+        "Action": "flexes and adducts at shoulder joint",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "biceps brachii",
+        "Origin": "short head: coracoid process of the scapula.long head: supraglenoid tubercle",
+        "Insertion": "radial tuberosity",
+        "Artery": "brachial artery",
+        "Nerve": "Musculocutaneous nerve (Lateral cord: C5 C6 C7)",
+        "Action": "flexes elbow and supinates forearm",
+        "Antagonist": "Triceps brachii muscle"
+    },
+    {
+        "Muscle": "brachialis",
+        "Origin": "anterior surface of the humerus particularly the distal half of this bone",
+        "Insertion": "coronoid process and the tuberosity of the ulna",
+        "Artery": "radial recurrent artery",
+        "Nerve": "musculocutaneous nerve",
+        "Action": "flexion at elbow joint",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "triceps brachii",
+        "Origin": "long head:Infraglenoid tubercle of the scapula lateral head: posterior humerus – above radial grovemedial head: posterior humerus-under radial groove",
+        "Insertion": "olecranon process of ulna",
+        "Artery": "Profunda brachii",
+        "Nerve": "radial nerve",
+        "Action": "extends forearm caput longum adducts shoulder medial head does not function at shoulder",
+        "Antagonist": "Biceps brachii muscle"
+    },
+    {
+        "Muscle": "anconeus",
+        "Origin": "Lateral epicondyle of the humerus",
+        "Insertion": "lateral surface of the olecranon process and the superior part of the posterior ulna",
+        "Artery": "Profunda brachii recurrent interosseous artery",
+        "Nerve": "radial nerve (C7 C8 and T1)",
+        "Action": "partly blended in with the triceps which it assists in extension of the forearm. Stabilises the elbow and abducts the ulna during pronation.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "pronator teres",
+        "Origin": "humeral head: medial epicondyle of humerus (common flexor tendon)  ulnar head: coronoid process of the ulna",
+        "Insertion": "radius pronator tuberosity",
+        "Artery": "ulnar artery and radial artery",
+        "Nerve": "median nerve",
+        "Action": "pronation of forearm flexes elbow",
+        "Antagonist": "Supinator muscle"
+    },
+    {
+        "Muscle": "flexor carpi radialis",
+        "Origin": "medial epicondyle of humerus (common flexor tendon)",
+        "Insertion": "Bases of second and third metacarpal bones",
+        "Artery": "radial artery",
+        "Nerve": "median nerve",
+        "Action": "Flexion and abduction at wrist",
+        "Antagonist": "Extensor carpi radialis brevis muscle Extensor carpi radialis longus muscle"
+    },
+    {
+        "Muscle": "palmaris longus",
+        "Origin": "medial epicondyle of humerus (common flexor tendon)",
+        "Insertion": "palmar aponeurosis",
+        "Artery": "ulnar artery",
+        "Nerve": "median nerve",
+        "Action": "wrist flexor",
+        "Antagonist": "Extensor carpi radialis brevis Extensor carpi radialis longus Extensor carpi ulnaris"
+    },
+    {
+        "Muscle": "flexor carpi ulnaris",
+        "Origin": "medial epicondyle of the humerus (common flexor tendon)",
+        "Insertion": "pisiform",
+        "Artery": "ulnar artery",
+        "Nerve": "muscular branches of ulnar nerve",
+        "Action": "flexion and adduction of wrist",
+        "Antagonist": "Extensor carpi ulnaris muscle"
+    },
+    {
+        "Muscle": "flexor digitorum superficialis",
+        "Origin": "medial epicondyle of the humerus (common flexor tendon) as well as parts of the radius and ulna.",
+        "Insertion": "phalanges II-V",
+        "Artery": "ulnar artery",
+        "Nerve": "median nerve",
+        "Action": "flexor of fingers (primarily at proximal interphalangeal joints)",
+        "Antagonist": "Extensor digitorum muscle"
+    },
+    {
+        "Muscle": "pronator quadratus",
+        "Origin": "medial anterior surface of the ulna",
+        "Insertion": "lateral anterior surface of the radius",
+        "Artery": "anterior interosseous artery",
+        "Nerve": "median nerve (anterior interosseous nerve)",
+        "Action": "weakly pronates the forearm",
+        "Antagonist": "Supinator muscle"
+    },
+    {
+        "Muscle": "flexor digitorum profundus",
+        "Origin": "ulna",
+        "Insertion": "distal phalanges",
+        "Artery": "anterior interosseous artery",
+        "Nerve": "lateral belly by median (anterior interosseous) medial belly by muscular branches of ulnar",
+        "Action": "flex hand interphalangeal joints",
+        "Antagonist": "Extensor digitorum muscle"
+    },
+    {
+        "Muscle": "flexor pollicis longus",
+        "Origin": "The middle 2/4 of the Volar surface of the radius and the adjacent interosseus membrane. (Also occasionally a small origin slightly on the medial epicondyle of the ulna.)",
+        "Insertion": "The base of the distal phalanx of the thumb",
+        "Artery": "Anterior interosseous artery",
+        "Nerve": "Anterior interosseous nerve (branch of median nerve) (C8 T1)",
+        "Action": "Flexion of the thumb",
+        "Antagonist": "Extensor pollicis longus muscle Extensor pollicis brevis muscle"
+    },
+    {
+        "Muscle": "extensor digitorum",
+        "Origin": "lateral epicondyle (common extensor tendon)",
+        "Insertion": "2nd–5th phalange",
+        "Artery": "",
+        "Nerve": "posterior interosseous nerve (C7 C8)",
+        "Action": "extension of hand and fingers",
+        "Antagonist": "Flexor digitorum superficialis muscle Flexor digitorum profundus muscle"
+    },
+    {
+        "Muscle": "extensor digiti minimi",
+        "Origin": "the anterior portion of the lateral epicondyle of the humerus (common extensor tendon)",
+        "Insertion": "extensor expansion located at the base of the proximal phalanx of the finger on the dorsal side",
+        "Artery": "posterior interosseous artery which originates from the common interosseous artery and more proximally the ulnar artery",
+        "Nerve": "posterior interosseous nerve (C7 C8)",
+        "Action": "extends the little finger at all joints",
+        "Antagonist": "Flexor digiti minimi brevis"
+    },
+    {
+        "Muscle": "extensor carpi ulnaris",
+        "Origin": "Common extensor tendon (lateral epicondyle) ulna",
+        "Insertion": "5th metacarpal",
+        "Artery": "ulnar artery",
+        "Nerve": "posterior interosseous nerve (C7 C8)",
+        "Action": "extends and adducts the wrist",
+        "Antagonist": "Flexor carpi ulnaris"
+    },
+    {
+        "Muscle": "brachioradialis",
+        "Origin": "Lateral supracondylar ridge of the humerus",
+        "Insertion": "Distal radius (Radial styloid process)",
+        "Artery": "radial recurrent artery",
+        "Nerve": "radial nerve",
+        "Action": "Flexion of forearm",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "extensor carpi radialis longus",
+        "Origin": "lateral supracondylar ridge",
+        "Insertion": "2nd metacarpal",
+        "Artery": "radial artery",
+        "Nerve": "radial nerve",
+        "Action": "extensor at the wrist joint abducts the hand at the wrist",
+        "Antagonist": "Flexor carpi radialis muscle"
+    },
+    {
+        "Muscle": "extensor carpi radialis brevis",
+        "Origin": "humerus at the anterior of lateral epicondyle (common extensor tendon)",
+        "Insertion": "base of the 3rd metacarpal",
+        "Artery": "radial artery",
+        "Nerve": "posterior interosseus nerve",
+        "Action": "extensor and abductor of the hand at the wrist joint",
+        "Antagonist": "Flexor carpi radialis muscle"
+    },
+    {
+        "Muscle": "supinator",
+        "Origin": "Lateral epicondyle of the humerus supinator crest of ulna radial collateral ligament annular ligament",
+        "Insertion": "Lateral proximal radial shaft",
+        "Artery": "radial recurrent artery",
+        "Nerve": "posterior interosseus nerve (C7 C8)",
+        "Action": "supinates forearm",
+        "Antagonist": "Pronator teres Pronator quadratus"
+    },
+    {
+        "Muscle": "extensor indicis",
+        "Origin": "ulna",
+        "Insertion": "index finger (extensor hood)",
+        "Artery": "",
+        "Nerve": "posterior interosseous nerve (C7 C8)",
+        "Action": "extends index finger wrist",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "abductor pollicis longus",
+        "Origin": "ulna radial styloid process",
+        "Insertion": "first metacarpal",
+        "Artery": "",
+        "Nerve": "posterior interosseous nerve (C7 C8)",
+        "Action": "abduction extension of thumb",
+        "Antagonist": "Adductor pollicis muscle"
+    },
+    {
+        "Muscle": "extensor pollicis brevis",
+        "Origin": "radius",
+        "Insertion": "thumb proximal phalanx",
+        "Artery": "posterior interosseous artery",
+        "Nerve": "posterior interosseous nerve (C7 C8)",
+        "Action": "extension of thumb at metacarpophalangeal joint",
+        "Antagonist": "Flexor pollicis longus muscle Flexor pollicis brevis muscle"
+    },
+    {
+        "Muscle": "extensor pollicis longus",
+        "Origin": "ulna",
+        "Insertion": "thumb distal phalanx",
+        "Artery": "",
+        "Nerve": "posterior interosseous nerve (C7 C8)",
+        "Action": "extension of the thumb (metacarpophalangeal and interphalangeal)",
+        "Antagonist": "Flexor pollicis longus muscle Flexor pollicis brevis muscle"
+    },
+    {
+        "Muscle": "opponens pollicis",
+        "Origin": "trapezium and transverse carpal ligament",
+        "Insertion": "metacarpal bone of the thumb on its radial side",
+        "Artery": "superficial palmar arch",
+        "Nerve": "median nerve",
+        "Action": "Opposition of the thumb",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "flexor pollicis brevis",
+        "Origin": "trapezoid flexor retinaculum",
+        "Insertion": "thumb proximal phalanx",
+        "Artery": "superficial palmar arch",
+        "Nerve": "median nerve deep branch of ulnar nerve (medial head)",
+        "Action": "Flexes the thumb",
+        "Antagonist": "Extensor pollicis longus muscle Extensor pollicis brevis muscle"
+    },
+    {
+        "Muscle": "abductor pollicis brevis",
+        "Origin": "Transverse carpal ligament the scaphoid and trapezium",
+        "Insertion": "Radial base of proximal phalanx of thumb and the thumb extensors",
+        "Artery": "superficial palmar arch",
+        "Nerve": "Median nerve",
+        "Action": "Abducts the thumb",
+        "Antagonist": "Adductor pollicis muscle"
+    },
+    {
+        "Muscle": "adductor pollicis",
+        "Origin": "Transverse head: anterior body of the third metacarpalOblique head: bases of the second and the third metacarpals and the adjacent trapezoid and capitate bones",
+        "Insertion": "medial side of the base of the proximal phalanx of the thumb and the ulnar sesamoid",
+        "Artery": "deep palmar arch",
+        "Nerve": "deep branch of ulnar nerve (T1)",
+        "Action": "adducts the thumb at the carpometacarpal joint",
+        "Antagonist": "Abductor pollicis longus muscle Abductor pollicis brevis muscle"
+    },
+    {
+        "Muscle": "palmaris brevis",
+        "Origin": "flexor retinaculum (medial) palmar aponeurosis",
+        "Insertion": "palm",
+        "Artery": "",
+        "Nerve": "superficial branch of ulnar nerve",
+        "Action": "wrinkle skin of palm",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "abductor digiti minimi",
+        "Origin": "pisiform",
+        "Insertion": "base of the proximal phalanx of the 5th digit on the ulnar or medial side",
+        "Artery": "ulnar artery",
+        "Nerve": "deep branch of ulnar nerve",
+        "Action": "Abduction of little finger",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "flexor digiti minimi brevis",
+        "Origin": "hamate bone",
+        "Insertion": "little finger",
+        "Artery": "ulnar artery",
+        "Nerve": "deep branch of ulnar nerve",
+        "Action": "flexes little finger",
+        "Antagonist": "extensor digiti minimi muscle"
+    },
+    {
+        "Muscle": "opponens digiti minimi",
+        "Origin": "Hook of hamate and flexor retinaculum",
+        "Insertion": "Medial border of 5th metacarpal",
+        "Artery": "ulnar artery",
+        "Nerve": "deep branch of ulnar nerve (C8 and T1)",
+        "Action": "Draws 5th metacarpal anteriorly and rotates it bringing little finger (5th digit) into opposition with thumb",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "lumbrical",
+        "Origin": "flexor digitorum profundus",
+        "Insertion": "extensor expansion",
+        "Artery": "superficial palmar arch common palmar digital arteries deep palmar arch dorsal digital artery",
+        "Nerve": "deep branch of ulnar nerve median nerve",
+        "Action": "flex metacarpophalangeal joints extend interphalangeal joints",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "dorsal interossei",
+        "Origin": "metacarpals",
+        "Insertion": "proximal phalanges",
+        "Artery": "Dorsal metacarpal artery and palmar metacarpal artery",
+        "Nerve": "deep branch of ulnar nerve",
+        "Action": "abduct finger",
+        "Antagonist": "Palmar interossei muscles"
+    },
+    {
+        "Muscle": "palmar interossei",
+        "Origin": "metacarpals",
+        "Insertion": "proximal phalange",
+        "Artery": "",
+        "Nerve": "deep branch of ulnar nerve",
+        "Action": "adduction",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "iliopsoas",
+        "Origin": "iliac fossa (iliacus) sacrum (iliacus) spine (T12 L1 lumbar vertebra Psoas major psoas minor)[3]",
+        "Insertion": "femur—lesser trochanter (psoas major/minor) shaft below lesser trochanter (iliacus) tendon of psoas major & femur (iliacus)[3]",
+        "Artery": "medial femoral circumflex artery iliolumbar artery",
+        "Nerve": "femoral nerve Lumbar nerves L1 L2",
+        "Action": "flexion of hip (psoas major/minor iliacus) spine rotation (psoas major/minor)",
+        "Antagonist": "Gluteus maximus posterior compartment of thigh"
+    },
+    {
+        "Muscle": "psoas major",
+        "Origin": "transverse processes bodies and discs of T12-L5",
+        "Insertion": "in the lesser trochanter of the femur",
+        "Artery": "Iliolumbar artery",
+        "Nerve": "Lumbar plexus via anterior branches of L1 L2 L3[4]",
+        "Action": "flexes and rotates laterally thigh",
+        "Antagonist": "Gluteus maximus"
+    },
+    {
+        "Muscle": "psoas minor",
+        "Origin": "Side of T11+L1 and IV Disc between",
+        "Insertion": "Pectineal line and iliopectineal eminence",
+        "Artery": "",
+        "Nerve": "L1",
+        "Action": "Weak trunk flexor",
+        "Antagonist": "Gluteus maximus"
+    },
+    {
+        "Muscle": "iliacus",
+        "Origin": "iliac fossa",
+        "Insertion": "lesser trochanter of femur",
+        "Artery": "medial femoral circumflex artery Iliolumbar artery",
+        "Nerve": "femoral nerve (L2 L3[4])",
+        "Action": "flexes hip[5]",
+        "Antagonist": "Gluteus maximus"
+    },
+    {
+        "Muscle": "tensor fasciae latae",
+        "Origin": "iliac crest",
+        "Insertion": "iliotibial tract",
+        "Artery": "primarily lateral circumflex femoral artery Superior gluteal artery",
+        "Nerve": "Superior gluteal nerve (L4 L5)",
+        "Action": "Thigh – flexion medial rotation. Trunk stabilization.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "gluteus maximus muscle",
+        "Origin": "Gluteal surface of ilium lumbar fascia sacrum sacrotuberous ligament",
+        "Insertion": "Gluteal tuberosity of the femur iliotibial tract",
+        "Artery": "superior and inferior gluteal arteries",
+        "Nerve": "inferior gluteal nerve (L5 S1 S2 nerve roots)",
+        "Action": "external rotation and extension of the hip joint supports the extended knee through the iliotibial tract chief antigravity muscle in sitting",
+        "Antagonist": "Iliacus Psoas major Psoas minor"
+    },
+    {
+        "Muscle": "gluteus medius muscle",
+        "Origin": "Gluteal surface of ilium under gluteus maximus",
+        "Insertion": "Greater trochanter of the femur",
+        "Artery": "superior gluteal artery",
+        "Nerve": "superior gluteal nerve (L4 L5 S1 nerve roots)",
+        "Action": "abduction of the hip; preventing adduction of the hip. Medial rotation of thigh.",
+        "Antagonist": "lateral rotator group"
+    },
+    {
+        "Muscle": "minimus",
+        "Origin": "Gluteal surface of ilium under gluteus medius.",
+        "Insertion": "Greater trochanter of the femur",
+        "Artery": "superior gluteal artery",
+        "Nerve": "superior gluteal nerve (L4 L5 S1 nerve roots)",
+        "Action": "Works in concert with gluteus medius: abduction of the hip; preventing adduction of the hip. Medial rotation of thigh.",
+        "Antagonist": "lateral rotator group"
+    },
+    {
+        "Muscle": "lateral rotator group",
+        "Origin": "at or below the acetabulum of the ilium",
+        "Insertion": "on or near the greater trochanter of the femur",
+        "Artery": "Inferior gluteal artery Lateral sacral artery Superior gluteal artery",
+        "Nerve": "Obturator nerve nerve to the Piriformis nerve to quadratus femoris",
+        "Action": "lateral rotation of hip",
+        "Antagonist": "Gluteus minimus muscle Gluteus medius muscle"
+    },
+    {
+        "Muscle": "piriformis",
+        "Origin": "sacrum",
+        "Insertion": "greater trochanter",
+        "Artery": "Inferior gluteal artery Lateral sacral artery Superior gluteal artery",
+        "Nerve": "nerve to the Piriformis (S1 and S2 nerve roots)[6]",
+        "Action": "laterally rotate (outward) the thigh",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "obturator externus",
+        "Origin": "obturator foramen and obturatory membrane",
+        "Insertion": "medial aspect of greater trochanter of femur",
+        "Artery": "obturator artery",
+        "Nerve": "posterior branch of obturator nerve (L3 L4)",
+        "Action": "adduct thigh rotate laterally thigh",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "obturator internus",
+        "Origin": "Ischiopubic ramus & obturator membrane",
+        "Insertion": "medial aspect of the Greater trochanter",
+        "Artery": "",
+        "Nerve": "Nerve to obturator internus (L5 S1 S2)",
+        "Action": "Abducts & rotates laterally thigh and stabiliser of the hip during walking",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "inferior gemellus",
+        "Origin": "Ischial tuberosity",
+        "Insertion": "Obturator internus tendon",
+        "Artery": "",
+        "Nerve": "Nerve to Quadratus femoris (L4 L5 S1)",
+        "Action": "Rotates laterally thigh",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "superior gemellus",
+        "Origin": "spine of the ischium",
+        "Insertion": "Obturator internus tendon",
+        "Artery": "",
+        "Nerve": "Nerve to obturator internus (L5 S1 S2)",
+        "Action": "Rotates laterally thigh",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "quadratus femoris",
+        "Origin": "ischial tuberosity",
+        "Insertion": "intertrochanteric crest",
+        "Artery": "inferior gluteal artery",
+        "Nerve": "nerve to quadratus femoris (L4 L5 -S1)",
+        "Action": "lateral rotation of thigh",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "articularis genus",
+        "Origin": "femur",
+        "Insertion": "suprapatellar bursa",
+        "Artery": "femoral artery",
+        "Nerve": "femoral nerve",
+        "Action": "Pulling the suprapatellar bursa during extension of the knee.",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "sartorius",
+        "Origin": "superior to the anterior superior iliac spine",
+        "Insertion": "medial side of the upper tibia in the pes anserinus",
+        "Artery": "femoral artery",
+        "Nerve": "femoral nerve",
+        "Action": "flexion lateral rotation and abduction of thigh; flexion and medial rotation of leg",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "quadriceps femoris",
+        "Origin": "combined rectus femoris and vastus muscles",
+        "Insertion": "Patella and Tibial tuberosity via the Patellar ligament",
+        "Artery": "femoral artery",
+        "Nerve": "Femoral nerve",
+        "Action": "Knee extension; Hip flexion (rectus femoris only)",
+        "Antagonist": "Hamstring"
+    },
+    {
+        "Muscle": "rectus femoris",
+        "Origin": "anterior inferior iliac spine and the exterior surface of the bony ridge which forms the iliac portion of the acetabulum",
+        "Insertion": "Patella and Tibial tuberosity via the Patellar ligament",
+        "Artery": "femoral artery",
+        "Nerve": "femoral nerve",
+        "Action": "knee extension; hip flexion",
+        "Antagonist": "Hamstring"
+    },
+    {
+        "Muscle": "vastus lateralis",
+        "Origin": "Greater trochanter Intertrochanteric line and Linea aspera of the femur",
+        "Insertion": "patella and tibial tuberosity via the patellar ligament",
+        "Artery": "femoral artery",
+        "Nerve": "femoral nerve",
+        "Action": "Extends and stabilizes knee",
+        "Antagonist": "Hamstring"
+    },
+    {
+        "Muscle": "vastus intermedius",
+        "Origin": "antero/ lateral femur",
+        "Insertion": "patella and tibial tuberosity via the patellar ligament",
+        "Artery": "femoral artery",
+        "Nerve": "femoral nerve",
+        "Action": "extends knee",
+        "Antagonist": "Hamstring"
+    },
+    {
+        "Muscle": "vastus medialis",
+        "Origin": "femur",
+        "Insertion": "patella and tibial tuberosity via the patellar ligament",
+        "Artery": "femoral artery",
+        "Nerve": "femoral nerve",
+        "Action": "extends knee",
+        "Antagonist": "Hamstring"
+    },
+    {
+        "Muscle": "biceps femoris",
+        "Origin": "long head: tuberosity of the ischium short head: linea aspera femur[7]",
+        "Insertion": "the head of the fibula[7] which articulates with the back of the lateral tibial condyle",
+        "Artery": "inferior gluteal artery perforating arteries popliteal artery",
+        "Nerve": "long head: medial (tibial) part of sciatic nerve short head: lateral (common fibular) part of sciatic nerve[7]",
+        "Action": "flexes knee joint laterally rotates leg at knee (when knee is flexed) extends hip joint (long head only)[7]",
+        "Antagonist": "Quadriceps muscle"
+    },
+    {
+        "Muscle": "semitendinosus",
+        "Origin": "tuberosity of the ischium[7]",
+        "Insertion": "pes anserinus",
+        "Artery": "inferior gluteal artery perforating arteries",
+        "Nerve": "sciatic[7] (tibial L5 S1 S2)",
+        "Action": "flexes knee extends hip joint medially rotates leg at knee[7]",
+        "Antagonist": "Quadriceps muscle"
+    },
+    {
+        "Muscle": "semimembranosus",
+        "Origin": "tuberosity of the ischium[7]",
+        "Insertion": "Medial surface of tibia[7]",
+        "Artery": "profunda femoris gluteal artery",
+        "Nerve": "sciatic nerve[7]",
+        "Action": "flexes knee extends hip joint medially rotates leg at knee[7]",
+        "Antagonist": "Quadriceps muscle"
+    },
+    {
+        "Muscle": "adductor muscles of the hip",
+        "Origin": "pubis",
+        "Insertion": "femur tibia",
+        "Artery": "",
+        "Nerve": "obturator nerve",
+        "Action": "adduction of hip",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "gracilis",
+        "Origin": "inferior pubic ramus[8]",
+        "Insertion": "tibia (pes anserinus)",
+        "Artery": "obturator artery",
+        "Nerve": "anterior branch of obturator nerve[8]",
+        "Action": "adduction of hip flexion of hip medial rotation of knee[8]",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "pectineus",
+        "Origin": "superior pubic ramus[8]",
+        "Insertion": "lesser trochanter linea aspera",
+        "Artery": "Obturator artery",
+        "Nerve": "femoral nerve and obturator nerve (medial compartment)[8]",
+        "Action": "flexion & adduction of hip[8]",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "adductor brevis",
+        "Origin": "anterior surface of the inferior pubic ramus[8]",
+        "Insertion": "the lesser trochanter and linea aspera of the femur",
+        "Artery": "obturator artery",
+        "Nerve": "anterior branch of obturator nerve[8]",
+        "Action": "adduction of hip[8]",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "adductor longus",
+        "Origin": "pubic body just below the pubic crest",
+        "Insertion": "middle third of linea aspera",
+        "Artery": "obturator artery",
+        "Nerve": "anterior branch of obturator nerve[8]",
+        "Action": "adduction & medial rotation of hip[8]",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "adductor magnus",
+        "Origin": "tuberosity of the ischium[8]",
+        "Insertion": "femur and adductor tubercle of femur",
+        "Artery": "obturator artery",
+        "Nerve": "posterior branch of obturator nerve (adductor) and tibial part of sciatic nerve (vertical head)[8][9]",
+        "Action": "adduction of hip[8]",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "tibialis anterior",
+        "Origin": "body of tibia",
+        "Insertion": "medial cuneiform and first metatarsal bones of the foot",
+        "Artery": "anterior tibial artery",
+        "Nerve": "Deep Fibular (peroneal) nerve",
+        "Action": "dorsiflex and invert the foot",
+        "Antagonist": "Fibularis longus Gastrocnemius Soleus Plantaris Tibialis posterior"
+    },
+    {
+        "Muscle": "extensor hallucis longus",
+        "Origin": "middle portion of the fibula on the anterior surface and the interosseous membrane",
+        "Insertion": "dorsal side of the base of the distal phalanx of the Hallux",
+        "Artery": "anterior tibial artery",
+        "Nerve": "Deep Fibular (peroneal) nerve",
+        "Action": "Extends the big toe and assists in dorsiflexion of the foot at the ankle. Also is a weak invertor.",
+        "Antagonist": "Flexor hallucis longus Flexor hallucis brevis"
+    },
+    {
+        "Muscle": "extensor digitorum longus",
+        "Origin": "Lateral Condyle of tibia and superior ¾ of interosseous membrane",
+        "Insertion": "Middle and Distal phalanges of lateral four digits",
+        "Artery": "anterior tibial artery",
+        "Nerve": "Deep Fibular (peroneal) nerve",
+        "Action": "extension of toes and ankle",
+        "Antagonist": "Flexor digitorum longus Flexor digitorum brevis"
+    },
+    {
+        "Muscle": "Fibularis tertius",
+        "Origin": "distal anterior surface of the fibula",
+        "Insertion": "dorsal surface of metatarsal 5",
+        "Artery": "anterior tibial artery",
+        "Nerve": "Deep Fibular (peroneal) nerve",
+        "Action": "dorsi flexes and everts foot",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "triceps surae",
+        "Origin": "",
+        "Insertion": "achilles tendon calcaneus",
+        "Artery": "posterior tibial artery",
+        "Nerve": "tibial nerve",
+        "Action": "plantarflexion",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "gastrocnemius",
+        "Origin": "medial and Lateral condyle of the femur",
+        "Insertion": "calcaneus",
+        "Artery": "sural arteries",
+        "Nerve": "tibial nerve from the sciatic specifically nerve roots S1 S2",
+        "Action": "plantarflexion flexion of knee (minor)",
+        "Antagonist": "Tibialis anterior muscle"
+    },
+    {
+        "Muscle": "soleus",
+        "Origin": "fibula medial border of tibia (soleal line)",
+        "Insertion": "tendo calcaneus",
+        "Artery": "sural arteries",
+        "Nerve": "tibial nerve specifically nerve roots L5–S2",
+        "Action": "plantarflexion",
+        "Antagonist": "tibialis anterior muscle"
+    },
+    {
+        "Muscle": "plantaris",
+        "Origin": "lateral supracondylar ridge of femur above lateral head of gastrocnemius",
+        "Insertion": "tendo calcaneus (medial side deep to gastrocnemius tendon)",
+        "Artery": "sural arteries",
+        "Nerve": "tibial nerve",
+        "Action": "Plantar flexes foot and flexes knee",
+        "Antagonist": "Tibialis anterior muscle"
+    },
+    {
+        "Muscle": "popliteus",
+        "Origin": "middle facet of the lateral surface of the lateral femoral condyle",
+        "Insertion": "posterior tibia under the tibial condyles",
+        "Artery": "popliteal artery",
+        "Nerve": "tibial nerve",
+        "Action": "Medial rotation and flexion of knee",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "flexor hallucis longus",
+        "Origin": "fibula posterior aspect of upper 1/3",
+        "Insertion": "base of distal phalanx of hallux",
+        "Artery": "Peroneal artery (peroneal branch of the posterior tibial artery",
+        "Nerve": "tibial nerve S1 S2 nerve roots",
+        "Action": "flexes all joints of the Hallux plantar flexion of the ankle joint",
+        "Antagonist": "Extensor hallucis longus muscle"
+    },
+    {
+        "Muscle": "flexor digitorum longus",
+        "Origin": "medial tibia",
+        "Insertion": "distal phalanges of lateral four digits",
+        "Artery": "posterior tibial artery",
+        "Nerve": "Tibial nerve",
+        "Action": "Primary action is Flex digits",
+        "Antagonist": "Extensor digitorum longus Extensor digitorum brevis"
+    },
+    {
+        "Muscle": "tibialis posterior",
+        "Origin": "tibia fibula",
+        "Insertion": "navicular medial cuneiform",
+        "Artery": "posterior tibial artery",
+        "Nerve": "tibial nerve",
+        "Action": "inversion of the foot plantar flexion of the foot at the ankle",
+        "Antagonist": "Tibialis anterior muscle"
+    },
+    {
+        "Muscle": "Fibularis longus",
+        "Origin": "fibula",
+        "Insertion": "first metatarsal medial cuneiform",
+        "Artery": "fibular (peroneal) artery",
+        "Nerve": "superficial fibular (peroneal) nerve",
+        "Action": "plantarflexion eversion",
+        "Antagonist": "Tibialis anterior muscle"
+    },
+    {
+        "Muscle": "Fibularis brevis",
+        "Origin": "fibula",
+        "Insertion": "fifth metatarsal",
+        "Artery": "fibular (peroneal) artery",
+        "Nerve": "superficial fibular (peroneal) nerve",
+        "Action": "plantarflexion eversion",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "extensor digitorum brevis",
+        "Origin": "calcaneus",
+        "Insertion": "toes",
+        "Artery": "",
+        "Nerve": "deep peroneal nerve",
+        "Action": "extends digits 2 3 and 4",
+        "Antagonist": "Flexor digitorum longus Flexor digitorum brevis"
+    },
+    {
+        "Muscle": "extensor hallucis brevis",
+        "Origin": "calcaneus",
+        "Insertion": "base of proximal phalanx of hallux",
+        "Artery": "",
+        "Nerve": "deep peroneal nerve",
+        "Action": "Extension of hallux",
+        "Antagonist": "Flexor hallucis brevis muscle"
+    },
+    {
+        "Muscle": "Dorsal interossei of the foot",
+        "Origin": "metatarsals",
+        "Insertion": "proximal phalanges",
+        "Artery": "",
+        "Nerve": "lateral plantar nerve All dorsal interossei are innervated by the lateral plantar nerve (S2–3). Those in the fourth interosseous space are innervated by the superficial branch and the other by the deep branch. The first and second dorsal interossei muscles additionally receive innervation from the lateral branch of the deep fibular nerve",
+        "Action": "abduct toes",
+        "Antagonist": "Plantar interossei muscles"
+    },
+    {
+        "Muscle": "abductor hallucis",
+        "Origin": "medial process of calcaneus flexor retinaculum plantar aponeurosis",
+        "Insertion": "medial side of base of proximal phalanx of first digit",
+        "Artery": "",
+        "Nerve": "medial plantar nerve",
+        "Action": "abducts hallux",
+        "Antagonist": "Adductor hallucis muscle"
+    },
+    {
+        "Muscle": "flexor digitorum brevis",
+        "Origin": "medial process of calcaneus plantar aponeurosis intermuscular septa",
+        "Insertion": "middle phalanges of digits 2–5",
+        "Artery": "",
+        "Nerve": "medial plantar nerve",
+        "Action": "flexes lateral four toes",
+        "Antagonist": "Extensor digitorum longus Extensor digitorum brevis"
+    },
+    {
+        "Muscle": "abductor digiti minimi",
+        "Origin": "Plantar aponeurosis",
+        "Insertion": "Fifth toe or Phalanges",
+        "Artery": "lateral plantar artery",
+        "Nerve": "lateral plantar nerve (S1 S2)",
+        "Action": "flex and abduct the fifth toe",
+        "Antagonist": "Flexor digiti minimi brevis muscle"
+    },
+    {
+        "Muscle": "quadratus plantae",
+        "Origin": "Calcaneus",
+        "Insertion": "Tendons of Flexor Digitorum Longus",
+        "Artery": "",
+        "Nerve": "lateral plantar nerve (S1 S2)",
+        "Action": "Assists Flexor Digitorum Longus in flexion of DIP joints",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "lumbrical muscle",
+        "Origin": "tendons of flexor digitorum longus",
+        "Insertion": "medial aspect of extensor expansion of proximal phalanges of lateral four digits",
+        "Artery": "lateral plantar artery and plantar arch and four plantar metatarsal arteries",
+        "Nerve": "lateral plantar nerve (lateral three lumbricals) and medial plantar nerve (first lumbrical)",
+        "Action": "maintain extension of digits at interphalangeal joints",
+        "Antagonist": ""
+    },
+    {
+        "Muscle": "flexor hallucis brevis",
+        "Origin": "Plantar aspect of the cuneiformis Plantar calcaneocuboid ligament long plantar ligament",
+        "Insertion": "Medial Head: Medial sesamoid bone of the metatarsophalangeal joint proximal phalanx of great toe.Lateral head: Lateral sesamoid bone of the metatarsophalangeal joint proximal phalanx of great toe",
+        "Artery": "",
+        "Nerve": "medial plantar nerve",
+        "Action": "flex hallux",
+        "Antagonist": "Extensor hallucis longus muscle"
+    },
+    {
+        "Muscle": "adductor hallucis",
+        "Origin": "Oblique Head: proximal ends of middle 3 metatarsal bones; Transverse Head: MTP ligaments of lateral 3 toes",
+        "Insertion": "lateral side of base of first phalanx of the 1st toe; sesamoid apparatus",
+        "Artery": "",
+        "Nerve": "lateral plantar nerve",
+        "Action": "adducts hallux",
+        "Antagonist": "Abductor hallucis muscle"
+    },
+    {
+        "Muscle": "flexor digiti minimi brevis",
+        "Origin": "fifth metatarsal bone",
+        "Insertion": "phalanx of the fifth toe",
+        "Artery": "",
+        "Nerve": "lateral plantar nerve (superficial branch)",
+        "Action": "extend and adduct the fifth toe",
+        "Antagonist": "Abductor digiti minimi muscle"
+    },
+    {
+        "Muscle": "Plantar interossei muscles",
+        "Origin": "Tendons of Plantar Interossei",
+        "Insertion": "The muscles then continue distally along the foot and insert in the proximal phalanges III-V. The muscles cross the metatarsophalangeal joint of toes III-V so the insertions correspond with the origin and there is no crossing between toes.",
+        "Artery": "Plantar Artery and Dorsal Metatarsal Artery",
+        "Nerve": "lateral plantar nerve",
+        "Action": "Since the intersseous muscles cross on the metatarsophalangeal joint then they act on that specific joint and cause adduction of toes III IV and V.[1] Adduction itself is not of extreme importance to the toes but these muscles work together with the dorsal interosseous muscles in flexion of the foot. They also work together to strengthen the metatarsal arch.[2]",
+        "Antagonist": "Dorsal interossei of the foot"
+    }
+]
